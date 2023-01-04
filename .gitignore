@@ -1,0 +1,4 @@
+.idea/
+fullchain.pem
+privkey.pem
+local-values.yml
